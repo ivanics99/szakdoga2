@@ -24,3 +24,16 @@ C:\Users\ivanics.attila\Desktop\szakdoga-master\Szakdolgozat\obj\Debug\Szakdolgo
 C:\Users\ivanics.attila\Desktop\szakdoga-master\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.GenerateResource.cache
 C:\Users\ivanics.attila\Desktop\szakdoga-master\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.CoreCompileInputs.cache
 C:\Users\ivanics.attila\Desktop\szakdoga-master\Szakdolgozat\obj\Debug\hu-HU\Szakdolgozat.resources.dll
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\bin\Debug\Szakdolgozat.exe.config
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\bin\Debug\Szakdolgozat.exe
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\bin\Debug\Szakdolgozat.pdb
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\bin\Debug\hu-HU\Szakdolgozat.resources.dll
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.Form1.resources
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.Properties.Resources.resources
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.Form1.hu-HU.resources
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\hu-HU\Szakdolgozat.resources.dll
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.exe
+C:\Users\User\Source\Repos\szakdoga2\Szakdolgozat\obj\Debug\Szakdolgozat.pdb
